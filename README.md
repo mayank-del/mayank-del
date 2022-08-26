@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node, React, Particle javaScript, Vanilla javaScript**
 
-- 👯 I’m looking to collaborate on **GDSC**
+- 👯 I’m Core member of **GDSC** Heritage Institute of technology
 
 - 👨‍💻 All of my projects are available at [github](github)
 
