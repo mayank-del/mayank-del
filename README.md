@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **open world projects**
 
-- 🌱 I’m currently learning **Node, React, Particle javaScript, Vanilla javaScript**
+- 🌱 I’m currently learning **Flutter, DevOps, Cloud**
 
 - 👯 I’m Core member of **GDSC** Heritage Institute of technology
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **C, Java, Python**
+- 💬 Ask me about **C, Java, Python,Node,React,Rest Api**
 
 - 📫 How to reach me **mkjam.007@gmail.com**
 
