@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, DevOps, Cloud**
 
-- 👯 I’m Core member of **GDSC** Heritage Institute of technology
+- 👯 I’m Core team member of **Google DSC** Heritage Institute of technology
 
 - 👨‍💻 All of my projects are available at [github](github)
 
