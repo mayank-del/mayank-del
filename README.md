@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **C, Java, Python,Node,React,Rest Api**
+- 💬 Ask me about **C, Java, Python,Node.js,React JS,Rest Api**
 
 - 📫 How to reach me **mkjam.007@gmail.com**
 
