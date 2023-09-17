@@ -3,9 +3,12 @@
 
 - 🔭 I’m currently working on **open world projects**
 
-- 🌱 I’m currently learning **Flutter, DevOps, Cloud**
+- 🌱 I’m currently learning **BlockChain, DevOps, Machine-Learning**
 
 - 👯 I’m Core team member of **Google DSC** Heritage Institute of technology
+- 👯 I have Finished **GirlScript Summer Of Code** at 36th Rank.
+- 👯 I have Completed **3 Paid Internships** in first 3 years of my college
+
 
 - 👨‍💻 All of my projects are available at [github](github)
 
