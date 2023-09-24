@@ -7,7 +7,7 @@
 
 - 👯 I’m Core team member of **Google DSC** Heritage Institute of technology
 - 👯 I have Finished **GirlScript Summer Of Code** at 36th Rank.
-- 👯 I have Completed **3 Paid Internships** in first 3 years of my college
+- 👯 I have Completed **3 Paid Internships** in the first 3 years of my college
 
 
 - 👨‍💻 All of my projects are available at [github](github)
