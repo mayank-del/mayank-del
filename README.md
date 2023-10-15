@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
-<h3 align="center">A passionate Software Developer Ethusiast from India</h3>
+<h3 align="center">A passionate Software Developer Enthusiast from India</h3>
 
 - 🔭 I’m currently working on **open world projects**
 
