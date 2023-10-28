@@ -11,7 +11,7 @@
 - 👯 I have done **more than 600 DSA questions** 
 
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github](github) , but they are in private repositories😊.
 
 - 💬 Ask me about **C, Java, Python,Node.js,React JS,Rest Api**
 
