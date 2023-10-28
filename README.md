@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning **BlockChain, DevOps, Machine-Learning**
 
-- 👯 I’m Core team member of **Google DSC** Heritage Institute of technology
+- 👯 I’m Core team member of **Google Developer Student Club** Heritage Institute of technology
 - 👯 I have Finished **GirlScript Summer Of Code** at 36th Rank.
 - 👯 I have Completed **3 Paid Internships** in the first 3 years of my college
+- 👯 I have done **more than 600 DSA questions** 
 
 
 - 👨‍💻 All of my projects are available at [github](github)
