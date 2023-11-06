@@ -8,7 +8,7 @@
 - 👯 I’m Core team member of **Google Developer Student Club** Heritage Institute of technology
 - 👯 I have Finished **GirlScript Summer Of Code** at 36th Rank.
 - 👯 I have Completed **3 Paid Internships** in the first 3 years of my college
-- 👯 I have done **more than 600 DSA questions** 
+- 👯 I have done **more than 600 DSA questions in PLatform like GFG, LeetCode, Coding Ninja** 
 
 
 - 👨‍💻 All of my projects are available at [github](github) , but they are in private repositories😊.
@@ -21,6 +21,8 @@
 <p align="left">
 <a href="https://www.youtube.com/channel/UCoKLFGwlkLcodR_BWqpQPsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayank_kumar" height="30" width="40" /></a>
 <a href="https://leetcode.com/mayank_43" target="blank"><img align="center" src="https://i.postimg.cc/LsqGsk7W/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="@mkjam_007" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mkjam007" target="blank"><img align="center" src="https://ibb.co/GRdP6gM" alt="@mayank_gfg" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
