@@ -8,7 +8,7 @@
 - 👯 I was Core team member of **Google Developer Student Club** Heritage Institute of technology 2022
 - 👯 I have Finished **GirlScript Summer Of Code 2022** at 36th Rank.
 - 👯 I have Completed **3 Paid Internships** in the first 3 years of my college
-- 👯 I have done **more than 600 DSA questions in PLatform like GFG, LeetCode, Coding Ninja** 
+- 👯 I have done **more than 650 DSA questions in PLatform like GFG, LeetCode, Coding Ninja** 
 
 
 - 👨‍💻 All of my projects are available at [github](github) , but they are in private repositories😊.
