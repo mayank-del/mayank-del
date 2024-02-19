@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
 <h3 align="center">Backend Engineer</h3>
 
-- 🔭 I’m currently working on **open world projects**
+- 🔭 I’m currently working as a Backend Engineer
 
 - 🌱 I’m currently learning **BlockChain, DevOps, Machine-Learning**
 
